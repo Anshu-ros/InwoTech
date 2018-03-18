@@ -1,2 +1,2 @@
 # InwoTech
-I, in the world of technology.
+Me, in the world of technology.
