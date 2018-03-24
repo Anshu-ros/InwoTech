@@ -38,7 +38,7 @@ coverage.xml
 *.pot
 
 docs/_build/ 
-
+.Python
 .env
 .venv
 env/
