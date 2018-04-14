@@ -2,6 +2,16 @@
 	left: 50%;
 	
 }
+.well2 {
+	position: relative;
+	display: block;
+}
+.well1 {
+    position: absolute;
+    margin-top: 50%;
+    margin-left: 50%;
+    transform: translate(-50%, -50%);
+}
 @media screen and (max-width: 767px) {
       .sidenav {
         height: auto;
